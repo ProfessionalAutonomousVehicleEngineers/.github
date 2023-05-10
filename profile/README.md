@@ -1,4 +1,9 @@
-## Hi there 👋
+
+# Professional Autonomous Vehicle Engineers
+
+## Who we are
+Professional Autonomous Vehicle Engineers is a student orginisation at Ohio University. We provide opportunities for students to work on vehicles and attend International competitions. 
+
 
 <!--
 
